@@ -4,7 +4,7 @@ If you experience or witness (or have experienced or have witnessed) violations 
 
 Code of Conduct violations can be reported by:
 
-- Emailing the moderators alias, your.friends@meeshkan.com
+- Emailing the moderators alias, moderators@meeshkan.com
 - Submitting an [online report form](https://meeshkan-unmock.typeform.com/to/wZtFDe) (can be done anonymously).
 - Contacting one of the [moderators](./moderators.md) privately via email or in person.
 - Communicating with an event organizer, who may themselves be a moderator or will be in contact with a moderator “on call.”
