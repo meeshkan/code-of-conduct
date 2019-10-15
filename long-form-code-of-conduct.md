@@ -17,7 +17,7 @@
 ## Short Form Code of Conduct
 The Meeshkan community is dedicated to providing a safe, inclusive, welcoming, and harassment-free space and experience for all community participants, regardless of gender identity and expression, sexual orientation, disability, physical appearance, socioeconomic status, body size, ethnicity, nationality, level of experience, age, religion (or lack thereof), or other identity markers. 
 
-Our Code of Conduct exists because of that dedication, and we do not tolerate harassment in any form. Within this repo, you can find both our [reporting guidelines](./incident-reporting.md) and [full Code of Conduct](./long-form-code-of-conduct.md).
+Our Code of Conduct exists because of that dedication, and we do not tolerate harassment in any form. If you need to report an incident, please refer to our [reporting guidelines](./incident-reporting.md).
 
 ## Long Form Code of Conduct
 The Meeshkan community is dedicated to providing a safe, inclusive, welcoming, and harassment-free space and experience for all community participants, regardless of gender identity and expression, sexual orientation, disability, physical appearance, socioeconomic status, body size, ethnicity, nationality, level of experience, age, or religion (or lack thereof). Our Code of Conduct exists because of that dedication, and we do not tolerate harassment in any form.
