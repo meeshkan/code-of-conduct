@@ -108,8 +108,8 @@ Feedback is always appreciated! You can create an [issue in the Github repositor
 The Meeshkan Community Code of Conduct is a living document. It will grow with the Meeshkan community to ensure we are providing a safe, inclusive, welcoming, and harassment-free space and experience for all community participants.
 
 ### Sources
-"Keen IO Community Code of Conduct", [https://github.com/keen/community-code-of-conduct](https://github.com/keen/community-code-of-conduct)
+[Keen IO Community Code of Conduct](https://github.com/keen/community-code-of-conduct)
 
-“LadyNerds Mission and Code of Conduct”, [http://www.ladynerds.org/code_of_conduct](http://www.ladynerds.org/code_of_conduct)
+[LadyNerds Mission and Code of Conduct](http://www.ladynerds.org/code_of_conduct)
 
-“LGBTQ in Technology” Code of Conduct, [http://lgbtq.technology/coc.html](http://lgbtq.technology/coc.html)
+[LGBTQ in Technology Code of Conduct](http://lgbtq.technology/coc.html)
